@@ -1,0 +1,56 @@
+# How to use
+
+
+# Crochet, Corner-to-Corner Basics
+
+## Stitch Guide
+ch: chain
+dc: double crochet (smaller-scale, mini designs use hdc, half double crochet)
+sl-st: slip stitch
+ch-3-sp: chain 3 space
+yarn: worsted weight
+hook: H-8 (5.0 mm)
+
+## Rounds
+R1:
+- Chain 6.
+- Dc in the 4th chain from the hook.
+- Dc in each of the two remaining chains.
+Pixel block of the ch-3 turning chain and 3 dc stitches.
+
+R2:
+- Turn
+- Chain 6
+- Dc in the 4th chain from the hook.
+- Dc in each of the two remaining chains.
+- Join to previous tile.Slip stich into ch3-sp from previous row
+- Make next tile (chain 3. make 3dc into same ch-3-sp)
+
+R3:
+- Turn
+- Ch 6. DC in the 4th chain from the hook, and in each of the 2 remaining chains. (1 tile complete.)
+- Sl st into the ch-3-sp from the previous row. Ch 3, 3 dc into the same ch-3-sp. (2nd tile complete.)
+- Sl st into the ch-3 sp from the previous row. Ch 3, 3 dc into the same ch-3-sp. (3rd tile complete.)
+
+Continue increasing, finishing on the middle
+middle row == top right corner
+
+First Decrease Row
+- Slip stitch in each dc across, and slip stitch into the ch-3-space.
+- Chain 3, and work 3 dc into the ch-3-sp of the previous row. (This completes the first tile of this row.)
+- Last tile of the row: Work the last tile of the row, and slip stitch into the next ch-3-space. Don’t chain 3 to start a new tile – instead, turn your work to start the next decrease row.
+
+Last row/tile
+- Slip stitch in each dc across, and slip stitch into the ch-3-space.
+- Ch 3, and work 3 dc into the ch-3-sp of the previous row. (This completes the first tile of this row.)
+| last tile
+v
+[9 8 7 6 5] <- last increase row
+[8 7 6 5 4]
+[7 6 5 4 3]
+[6 5 4 3 2]
+[5 4 3 2 1] <- start
+
+pixelPika = 1200 x 1200 pixels
+pixelization = 120 pixels
+10 tiles x 10 tiles (120 pixels each)
